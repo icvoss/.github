@@ -22,7 +22,7 @@ install guidance. Each package below also has a detail page there.
 | 07 | [django-icv-taxonomy](https://github.com/icvoss/django-icv-taxonomy) | [docs](https://icvoss.com/packages/django-icv-taxonomy/) | Vocabularies, term trees and tagging |
 | 08 | [django-icv-tree](https://github.com/icvoss/django-icv-tree) | [docs](https://icvoss.com/packages/django-icv-tree/) | Materialised path tree structures |
 | 09 | [django-waf](https://github.com/icvoss/django-waf) | [docs](https://icvoss.com/packages/django-waf/) | Self-hosted web application firewall |
-| 10 | [icv-trace](https://github.com/icvoss/icv-trace) | [docs](https://icvoss.com/packages/icv-trace/) | Bounded operation diagnostics (preview / RC) |
+| 10 | [icv-trace](https://github.com/icvoss/icv-trace) | [PyPI](https://pypi.org/project/icv-trace/) | Bounded operation diagnostics (preview / RC; catalogue entry pending on icvoss.com) |
 
 ## How these packages are built
 
